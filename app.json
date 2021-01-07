@@ -1,0 +1,12 @@
+{
+  "name": "RayukaApp",
+  "displayName": "RayukaApp",
+  "expo": {
+    "name": "RayukaApp",
+    "slug": "RayukaApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
